@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HealthcareAppointment.WebAPI1.props" />
+</Project>

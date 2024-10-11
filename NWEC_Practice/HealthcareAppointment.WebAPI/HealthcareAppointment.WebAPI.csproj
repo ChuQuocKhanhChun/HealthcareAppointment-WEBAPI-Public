@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HealthcareAppointment.Business\HealthcareAppointment.Business.csproj" />
+    <ProjectReference Include="..\HealthcareAppointment.Data\HealthcareAppointment.Data.csproj" />
+    <ProjectReference Include="..\NWEC_Practice\HealthcareAppointment.Models.csproj" />
+  </ItemGroup>
+
+</Project>

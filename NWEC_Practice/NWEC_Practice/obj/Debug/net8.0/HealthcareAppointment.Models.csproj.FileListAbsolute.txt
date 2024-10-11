@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\bin\Debug\net8.0\HealthcareAppointment.Models.exe
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\bin\Debug\net8.0\HealthcareAppointment.Models.deps.json
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\bin\Debug\net8.0\HealthcareAppointment.Models.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\bin\Debug\net8.0\HealthcareAppointment.Models.dll
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\bin\Debug\net8.0\HealthcareAppointment.Models.pdb
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\HealthcareAppointment.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\HealthcareAppointment.Models.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\HealthcareAppointment.Models.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\HealthcareAppointment.Models.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\HealthcareAppointment.Models.sourcelink.json
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\HealthcareAppointment.Models.dll
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\refint\HealthcareAppointment.Models.dll
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\HealthcareAppointment.Models.pdb
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\HealthcareAppointment.Models.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\NWEC_Practice\NWEC_Practice\obj\Debug\net8.0\ref\HealthcareAppointment.Models.dll

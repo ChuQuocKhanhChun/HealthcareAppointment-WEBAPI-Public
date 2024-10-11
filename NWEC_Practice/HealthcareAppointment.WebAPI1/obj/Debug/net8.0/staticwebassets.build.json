@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3+aF64NIzUk3yblyLf3hBBUxbZjBkl1yq/a1a/D2oko=",
+  "Source": "HealthcareAppointment.WebAPI1",
+  "BasePath": "_content/HealthcareAppointment.WebAPI1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

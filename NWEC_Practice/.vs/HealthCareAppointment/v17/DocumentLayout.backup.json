@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.webapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|solutionrelative:healthcareappointment.webapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.webapi1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|solutionrelative:healthcareappointment.webapi1\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.webapi1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|solutionrelative:healthcareappointment.webapi1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.webapi1\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|solutionrelative:healthcareappointment.webapi1\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963FC46F-AD3D-4DB8-A0A3-D3FF11E121DC}|NWEC_Practice\\HealthcareAppointment.Models.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\nwec_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963FC46F-AD3D-4DB8-A0A3-D3FF11E121DC}|NWEC_Practice\\HealthcareAppointment.Models.csproj|solutionrelative:nwec_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.business\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|solutionrelative:healthcareappointment.business\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963FC46F-AD3D-4DB8-A0A3-D3FF11E121DC}|NWEC_Practice\\HealthcareAppointment.Models.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\nwec_practice\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963FC46F-AD3D-4DB8-A0A3-D3FF11E121DC}|NWEC_Practice\\HealthcareAppointment.Models.csproj|solutionrelative:nwec_practice\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.data\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\healthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.business\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|solutionrelative:healthcareappointment.business\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.data\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.business\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|solutionrelative:healthcareappointment.business\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963FC46F-AD3D-4DB8-A0A3-D3FF11E121DC}|NWEC_Practice\\HealthcareAppointment.Models.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\nwec_practice\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963FC46F-AD3D-4DB8-A0A3-D3FF11E121DC}|NWEC_Practice\\HealthcareAppointment.Models.csproj|solutionrelative:nwec_practice\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.business\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|solutionrelative:healthcareappointment.business\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.data\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.data\\migrations\\healthcaredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7414114-A584-4606-9595-36F3342B00C3}|HealthcareAppointment.Data\\HealthcareAppointment.Data.csproj|solutionrelative:healthcareappointment.data\\migrations\\healthcaredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.business\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AF7E2E-DD7B-4F49-8D89-801E100C2663}|HealthcareAppointment.Business\\HealthcareAppointment.Business.csproj|solutionrelative:healthcareappointment.business\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.webapi1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|solutionrelative:healthcareappointment.webapi1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_ICG7C8UT_SQLEXPRESS/HealthcareDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_ICG7C8UT_SQLEXPRESS/HealthcareDB/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|c:\\users\\admin\\source\\repos\\nwec_practice\\healthcareappointment.webapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA97A932-CC3C-4971-B32C-183C0E10D3A4}|HealthcareAppointment.WebAPI1\\HealthcareAppointment.WebAPI1.csproj|solutionrelative:healthcareappointment.webapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.WebAPI1\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "HealthcareAppointment.WebAPI1\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:23:13.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.WebAPI1\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Program.cs",
+              "RelativeToolTip": "HealthcareAppointment.WebAPI1\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:32:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthcareDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\HealthcareDbContext.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\HealthcareDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\HealthcareDbContext.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\HealthcareDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:49:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\NWEC_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "NWEC_Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\NWEC_Practice\\Program.cs",
+              "RelativeToolTip": "NWEC_Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:39:14.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.WebAPI1\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "HealthcareAppointment.WebAPI1\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:27:53.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.WebAPI1\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HealthcareAppointment.WebAPI1\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:24:39.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\NWEC_Practice\\User.cs",
+              "RelativeDocumentMoniker": "NWEC_Practice\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\NWEC_Practice\\User.cs",
+              "RelativeToolTip": "NWEC_Practice\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:41:55.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\AppointmentRepository.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:53:52.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Business\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\IUserRepository.cs",
+              "RelativeToolTip": "HealthcareAppointment.Business\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:34:16.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\Repository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\Repository.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\Repository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:30:19.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Business\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\IAppointmentService.cs",
+              "RelativeToolTip": "HealthcareAppointment.Business\\IAppointmentService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:43:25.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Business\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\AppointmentService.cs",
+              "RelativeToolTip": "HealthcareAppointment.Business\\AppointmentService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:51:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\IRepository.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:58:27.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Business\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\UserRepository.cs",
+              "RelativeToolTip": "HealthcareAppointment.Business\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:34:37.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\NWEC_Practice\\Appointment.cs",
+              "RelativeDocumentMoniker": "NWEC_Practice\\Appointment.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\NWEC_Practice\\Appointment.cs",
+              "RelativeToolTip": "NWEC_Practice\\Appointment.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:44:27.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\IAppointmentRepository.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:53:28.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\Program.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:47:43.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HealthcareDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\Migrations\\HealthcareDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Data\\Migrations\\HealthcareDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Data\\Migrations\\HealthcareDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HealthcareAppointment.Data\\Migrations\\HealthcareDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:30:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\Program.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.Business\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.Business\\Program.cs",
+              "RelativeToolTip": "HealthcareAppointment.Business\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:43:02.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_ICG7C8UT_SQLEXPRESS/HealthcareDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_ICG7C8UT_SQLEXPRESS/HealthcareDB/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-11T10:31:49.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HealthcareAppointment.WebAPI1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HealthcareAppointment.WebAPI1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T03:27:43.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.Appointments.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_ICG7C8UT_SQLEXPRESS/HealthcareDB/True/SqlTable/dbo.Appointments.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_ICG7C8UT_SQLEXPRESS/HealthcareDB/True/SqlTable/dbo.Appointments.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-11T10:31:39.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\appsettings.json",
+              "RelativeDocumentMoniker": "HealthcareAppointment.WebAPI1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\NWEC_Practice\\HealthcareAppointment.WebAPI1\\appsettings.json",
+              "RelativeToolTip": "HealthcareAppointment.WebAPI1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-11T03:30:50.321Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 77,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
